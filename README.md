@@ -11,8 +11,9 @@ I have experience with web development (both frontend and backend) and mobile de
 - docker
 
 💬 You can reach me here: 
-[LinkedIn](https://www.linkedin.com/in/kamil-jonak-650b58178/)
-[Personal website](kamreo.github.io/portfolio-website/)
+- [Personal website](https://kamreo.github.io/portfolio-website/)
+- [LinkedIn](https://www.linkedin.com/in/kamil-jonak-650b58178/)
+
 
 <!--
 **kamreo/kamreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
