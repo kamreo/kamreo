@@ -1,4 +1,4 @@
-✨ Hello World ✨
+✨ Hello, world! ✨
 
 🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and PHP Developer at [Webanywhere](https://www.webanywhere.co.uk).
 I have experience with web development (both frontend and backend) and mobile development (Android and iOS) in Xamarin.
