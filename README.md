@@ -1,14 +1,14 @@
 ✨ Hello, world! ✨
 
-🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and PHP Developer at [Webanywhere](https://www.webanywhere.co.uk).
-I have experience with web development (both frontend and backend) and mobile development (Android and iOS) in Xamarin.
+🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Full Stack Developer at [TravelTech](https://www.traveltech.pl/).
+I have experience with web development (both frontend and backend), mobile development (Android and iOS) in Xamarin and game development in Unity.
 
-⚡ Right now i'm working on a mobile game Birdman in Unity and chess engine in python using pygame library. 
+⚡ Right now i'm working on my game and bachelor's thesis.  
 
 🌱 I’m focused on learning:
-- web development(backend): PHP, Symfony, API Platform and Behat
+- web development(backend): PHP, Symfony
 - gamedev: C#, Unity, Blender
-- docker
+- Docker
 
 💬 You can reach me here: 
 - [Personal website](https://kamreo.github.io/portfolio-website/)
