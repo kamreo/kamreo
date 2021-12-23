@@ -1,6 +1,6 @@
 ✨ Hello, world! ✨
 
-🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Full Stack Developer at [TravelTech](https://www.traveltech.pl/).
+🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Engineer.
 I have experience with web development (both frontend and backend), mobile development (Android and iOS) in Xamarin and game development in Unity.
 
 ⚡ Right now i'm working on my game and bachelor's thesis.  
