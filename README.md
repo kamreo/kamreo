@@ -1,7 +1,8 @@
-✨ Hello, world! ✨
+![](https://komarev.com/ghpvc/?username=kamreo)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kamreo&theme=highcontrast&show_icons=true&count_private=true)
 
+✨ Hello, world! ✨ 
 
 🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Engineer.
 I have experience with web development (both frontend and backend), mobile development (Android and iOS) in Xamarin and game development in Unity.
