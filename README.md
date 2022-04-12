@@ -4,10 +4,10 @@
 
 ✨ Hello, world! ✨ 
 
-🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Engineer.
+🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Engineer in Linkfactory.
 I have experience with web development (both frontend and backend), mobile development (Android and iOS) in Xamarin and game development in Unity.
 
-⚡ Right now i'm working on my game and bachelor's thesis.  
+⚡ Right now i'm working on my bachelor's thesis.  
 
 🌱 I’m focused on learning:
 - web development(backend): PHP, Symfony
@@ -17,6 +17,7 @@ I have experience with web development (both frontend and backend), mobile devel
 💬 You can reach me here: 
 - [Personal website](https://kamreo.github.io/portfolio-website/)
 - [LinkedIn](https://www.linkedin.com/in/kamil-jonak-650b58178/)
+- [YouTube](https://www.youtube.com/channel/UCq1WXpNpWWlB0fA_TrbHq7A)
 
 
 <!--
