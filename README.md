@@ -15,7 +15,7 @@ I have experience with web development (both frontend and backend), mobile devel
 - Docker
 
 💬 You can reach me here: 
-- [Personal website](https://kamreo.github.io/portfolio-website/)
+- [Personal website](https://portfolio-website-kamreo.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/kamil-jonak-650b58178/)
 - [YouTube](https://www.youtube.com/channel/UCq1WXpNpWWlB0fA_TrbHq7A)
 
