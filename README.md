@@ -7,12 +7,10 @@
 🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Engineer in Linkfactory.
 I have experience with web development (both frontend and backend), mobile development (Android and iOS) in Xamarin and game development in Unity.
 
-⚡ Right now i'm working on my bachelor's thesis.  
-
 🌱 I’m focused on learning:
 - web development(backend): PHP, Symfony
 - gamedev: C#, Unity, Blender
-- Docker
+- devops: ansible, terraform, docker
 
 💬 You can reach me here: 
 - [Personal website](https://portfolio-website-kamreo.vercel.app/)
