@@ -2,15 +2,13 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kamreo&theme=tokyonight&show_icons=true&count_private=true)
 
-✨ Hello, world! ✨ 
-
-🔭 I'm Kamil, CS student at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Engineer in Linkfactory.
-I have experience with web development (both frontend and backend), mobile development (Android and iOS) in Xamarin and game development in Unity.
+🔭 I'm Kamil, I finished Computer Science at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and I work as a Software Developer in ClawRock.
+I have experience with web development (both frontend and backend),devops and server infrastructure and game development in Unity.
 
 🌱 I’m focused on learning:
-- web development(backend): PHP, Symfony
-- gamedev: C#, Unity, Blender
-- devops: ansible, terraform, docker
+- web development(backend): PHP, Symfony, API Platform
+- gamedev: Unity
+- devops: AWS, IaaS, Docker, VMs
 
 💬 You can reach me here: 
 - [Personal website](https://portfolio-website-kamreo.vercel.app/)
