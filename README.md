@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=kamreo)
-
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamreo&theme=tokyonight&show_icons=true&count_private=true)
 
 🔭 I'm Kamil, I finished Computer Science at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and I work as a Software Developer in ClawRock.
