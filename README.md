@@ -1,6 +1,6 @@
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kamreo&theme=tokyonight&show_icons=true&count_private=true)
 
-🔭 I'm Kamil, I finished Computer Science at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and Software Developer.
+🔭 I'm Kamil, I graduated from computer science at [University of Economics in Katowice](https://www.ue.katowice.pl/en.html) and I'm a software dev.
 I have experience with web development (both frontend and backend),devops and server infrastructure.
 
 💬 You can reach me here: 
