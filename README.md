@@ -4,7 +4,7 @@
 I have experience with web development (both frontend and backend),devops and server infrastructure.
 
 💬 You can reach me here: 
-- [Personal website](https://www.goldmannsoft.pl/)
+- [Personal website](https://goldmannsoft.pl/)
 - [LinkedIn](https://www.linkedin.com/in/kamil-jonak-650b58178/)
 - [YouTube](https://www.youtube.com/channel/UCq1WXpNpWWlB0fA_TrbHq7A)
 
