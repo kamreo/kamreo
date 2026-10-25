@@ -2,7 +2,7 @@
 I have experience with web development (both frontend and backend),devops and server infrastructure.
 
 💬 You can reach me here: 
-- [Personal website](https://goldmann.vercel.app/)
+- [Personal website](https://www.thegoldmann.com/)
 - [LinkedIn](https://www.linkedin.com/in/kamil-jonak-650b58178/)
 - [YouTube](https://www.youtube.com/channel/UCq1WXpNpWWlB0fA_TrbHq7A)
 
